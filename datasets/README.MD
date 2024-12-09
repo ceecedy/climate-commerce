@@ -1,10 +1,10 @@
 # Datasets
 
-This directory contains the data sources used in the project. However, due to the size of the datasets, they were excluded from being pushed to the Git repository.
+This directory contains the data sources used in the project. All the datasets used were uploaded excluding one because of its size and Github can't host it.
 
-## Why are the datasets missing?
+## Why one Dataset is missing?
 
-The datasets in this directory are too large to be hosted on Git, so they have been **excluded from version control**. This is a common practice to avoid bloating the repository with large files and to ensure smooth collaboration across team members.
+It is because of its size that is more than 50 MB, so they have been **excluded from version control**. This is a common practice to avoid bloating the repository with large files and to ensure smooth collaboration across team members.
 
 ## Accessing the Datasets
 
