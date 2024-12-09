@@ -1,5 +1,6 @@
 # tools to be used.
 requests
+notebook
 pandas
 duckdb
 python-dotenv
