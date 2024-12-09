@@ -1,0 +1,4 @@
+# tools to be used.
+requests
+pandas
+duckdb
