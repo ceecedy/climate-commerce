@@ -11,5 +11,7 @@
 /.ipynb_checkpoints
 /.DS_Store
 
+/database/database.db
+
 
 
