@@ -3,6 +3,7 @@
 
 /datasets/olist_geolocation_dataset.csv
 /analytics/dim_geolocation.csv
+/analytics/dim_customers.csv
 
 /datasets/.ipynb_checkpoints
 /transformation/models/.ipynb_checkpoints
