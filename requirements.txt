@@ -4,3 +4,4 @@ notebook
 pandas
 duckdb
 python-dotenv
+openpyxl
