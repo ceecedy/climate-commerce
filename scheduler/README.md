@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Scheduler** is responsible for automating the execution of tasks in the data processing pipeline. It ensures that the orchestrator runs at predefined intervals, allowing for automated and timely data processing. Currently, there's no scheduler setup.
+The **Scheduler** is responsible for automating the execution of tasks in the data processing pipeline. It ensures that the orchestrator runs at predefined intervals, allowing for automated and timely data processing. Currently, there's no scheduler setup for it does not needed.
 
 ### Future Enhancements
 
